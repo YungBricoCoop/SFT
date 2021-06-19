@@ -11,14 +11,15 @@ pip install -r requirements.txt
 ```
 You need to get a  [TOKEN](https://developer.spotify.com/console/get-users-currently-playing-track/)  to use this app. Just choose thse two scopes 
 <b> user-read-currently-playing</b> , <b>user-modify-playback-state</b>
+Just change the token value in the code
+
+```python
+ACCESS_TOKEN = YOUR_TOKEN
+```
 ## Usage
 
 ```bash
 python SFT.py
-```
-You can use --help to get more infos on the parameters
-```bash
-python mlg.py --help
 ```
 
 ## Example
