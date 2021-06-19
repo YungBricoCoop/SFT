@@ -1,0 +1,2 @@
+# SFT
+Spotify For Terminal
