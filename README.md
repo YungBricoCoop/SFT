@@ -22,12 +22,6 @@ ACCESS_TOKEN = YOUR_TOKEN
 python SFT.py
 ```
 
-## Example
-
-```bash
-python mlg.py "OnlyfansBabes1" 10 2 "new" 1 True True "mlg.txt"
-```
-
 ## Result
 
-![IMG](https://elwan.ch/MLG/github3.png)
+![IMG](https://elwan.ch/MLG/github4.png)
