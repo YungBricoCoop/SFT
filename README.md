@@ -9,7 +9,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the dep
 ```bash
 pip install -r requirements.txt
 ```
-You need to get a  [TOKEN](https://developer.spotify.com/console/get-users-currently-playing-track/)  to use this app , you need to select this too scopes 
+You need to get a  [TOKEN](https://developer.spotify.com/console/get-users-currently-playing-track/)  to use this app. Just choose thse two scopes 
 <b> user-read-currently-playing</b> , <b>user-modify-playback-state</b>
 ## Usage
 
