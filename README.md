@@ -1,6 +1,6 @@
 # Spotify For Terminal
 
-SFT is a simple python app that makes request to spotify to display the current playing song, you can also press f1 to play next song, g2 to play previous and f3 to pause
+SFT is a simple python app that makes request to spotify to display the current playing song, you can also press f1 to play next song, f2 to play previous and f3 to pause
 
 ## Installation
 
